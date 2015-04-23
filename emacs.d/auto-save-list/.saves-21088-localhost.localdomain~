@@ -1,0 +1,14 @@
+/home1/wli/test/usb_cdc/usb_cdc.h
+/home1/wli/test/usb_cdc/#usb_cdc.h#
+/home1/wli/test/usb_cdc/usb_cdc.c
+/home1/wli/test/usb_cdc/#usb_cdc.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/core.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/#core.c#
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/simply.c
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/#simply.c#
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/usb/dwc2/core.c
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/usb/dwc2/#core.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/serial.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/#serial.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/TAGS
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/#TAGS#

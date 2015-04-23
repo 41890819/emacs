@@ -1,0 +1,16 @@
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/bare/src/bare.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/bare/src/#bare.c#
+/home1/wli/demo/gdbstub/ejtag-drv.c
+/home1/wli/demo/gdbstub/#ejtag-drv.c#
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/target-ejtag.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/#target-ejtag.c#
+/home1/wli/demo/gdbstub/3-17/gdbstub/common/platform.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/common/#platform.c#
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/include/target-ejtag.h
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/include/#target-ejtag.h#
+/home1/wli/demo/gdbstub/3-17/gdbstub/common/gdb.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/common/#gdb.c#
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/gdb-comm.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/#gdb-comm.c#
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/ejtag.c
+/home1/wli/demo/gdbstub/3-17/gdbstub/arch/linux/src/#ejtag.c#

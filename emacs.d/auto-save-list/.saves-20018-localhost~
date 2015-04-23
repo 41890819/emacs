@@ -1,0 +1,16 @@
+/home1/wli/demo/objmips/objmips_switch_cpu/include/cachecfg.h
+/home1/wli/demo/objmips/objmips_switch_cpu/include/#cachecfg.h#
+/home1/wli/demo/objmips/objmips_switch_cpu/base/start.S
+/home1/wli/demo/objmips/objmips_switch_cpu/base/#start.S#
+/home1/wli/demo/palladium/1-6/drivers/char/cpu_switch.S
+/home1/wli/demo/palladium/1-6/drivers/char/#cpu_switch.S#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/drivers/char/cpu_switch.S
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/drivers/char/#cpu_switch.S#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/include/asm/mach-xburst/rjzcache.h
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/include/asm/mach-xburst/#rjzcache.h#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/scall32-o32.S
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/#scall32-o32.S#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/genex.S
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/#genex.S#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/traps.c
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/arch/mips/kernel/#traps.c#

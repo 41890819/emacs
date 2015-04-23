@@ -1,0 +1,16 @@
+/home1/wli/test/1.c
+/home1/wli/test/#1.c#
+/home1/wli/test/ttys_read.c
+/home1/wli/test/#ttys_read.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/composite.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/#composite.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/include/linux/usb/gadget.h
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/include/linux/usb/#gadget.h#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/include/linux/usb/composite.h
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/include/linux/usb/#composite.h#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/gadget.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/#gadget.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/renesas_usbhs/mod_gadget.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/renesas_usbhs/#mod_gadget.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/TAGS
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/#TAGS#

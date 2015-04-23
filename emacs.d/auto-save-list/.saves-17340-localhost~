@@ -1,0 +1,12 @@
+/home1/wli/demo/cpu_freq/switch/pmon/drivers/char/cpu_switch.S
+/home1/wli/demo/cpu_freq/switch/pmon/drivers/char/#cpu_switch.S#
+/home1/wli/demo/cpu_freq/switch/pmon/drivers/char/jz_switch.c
+/home1/wli/demo/cpu_freq/switch/pmon/drivers/char/#jz_switch.c#
+/home1/wli/demo/cpu_freq/switch/pmon/arch/mips/xburst/soc-4785/include/pmon.h
+/home1/wli/demo/cpu_freq/switch/pmon/arch/mips/xburst/soc-4785/include/#pmon.h#
+/home1/wli/test/cpu_freq/pmon.c
+/home1/wli/test/cpu_freq/#pmon.c#
+/home1/wli/demo/cpu_freq/switch/pmon/.config
+/home1/wli/demo/cpu_freq/switch/pmon/#.config#
+/home1/wli/test/cpu_freq/switch.c
+/home1/wli/test/cpu_freq/#switch.c#

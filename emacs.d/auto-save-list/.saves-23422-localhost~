@@ -1,0 +1,10 @@
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/.config
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/#.config#
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/.config
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/#.config#
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/host-ddma.c
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/dwc2/#host-ddma.c#
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/usb-skeleton.c
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/#usb-skeleton.c#
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/misc/cytherm.c
+/home1/wli/demo/otg/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/misc/#cytherm.c#

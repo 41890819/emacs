@@ -1,0 +1,14 @@
+/home1/wli/demo/gdbstub/board/arch/bare/usb.c
+/home1/wli/demo/gdbstub/board/arch/bare/#usb.c#
+/home1/wli/demo/gdbstub/board/include/usb.h
+/home1/wli/demo/gdbstub/board/include/#usb.h#
+/home1/wli/demo/gdbstub/board/arch/bare/gdb-comm.c
+/home1/wli/demo/gdbstub/board/arch/bare/#gdb-comm.c#
+/home1/wli/demo/gdbstub/board/gdbstub/remote-comm.c
+/home1/wli/demo/gdbstub/board/gdbstub/#remote-comm.c#
+/home1/wli/demo/gdbstub/board/gdbstub/gdb.c
+/home1/wli/demo/gdbstub/board/gdbstub/#gdb.c#
+/home1/wli/demo/gdbstub/board/arch/bare/bare-lib.c
+/home1/wli/demo/gdbstub/board/arch/bare/#bare-lib.c#
+/home1/wli/demo/gdbstub/board/gdbstub/platform.c
+/home1/wli/demo/gdbstub/board/gdbstub/#platform.c#

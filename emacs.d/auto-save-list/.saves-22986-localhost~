@@ -1,0 +1,8 @@
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/Kconfig
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/#Kconfig#
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/cpu_switch.S
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/#cpu_switch.S#
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/jz_cpufreq.c
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/#jz_cpufreq.c#
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/Makefile
+/home1/wli/demo/palladium/kernel-3.0.8/drivers/char/#Makefile#

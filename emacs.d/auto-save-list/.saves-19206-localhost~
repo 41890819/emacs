@@ -1,0 +1,12 @@
+/home1/wli/test/cpu_freq/test_cpu_switch.c
+/home1/wli/test/cpu_freq/#test_cpu_switch.c#
+/home1/wli/test/cpu_freq/sys_cpu_switch.c
+/home1/wli/test/cpu_freq/#sys_cpu_switch.c#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/drivers/char/jz_switch.c
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/drivers/char/#jz_switch.c#
+/home1/wli/data/uboot/fpga/u-boot-2013.04/include/configs/f4785.h
+/home1/wli/data/uboot/fpga/u-boot-2013.04/include/configs/#f4785.h#
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/kernel/rwsem.c
+/home1/wli/demo/cpu_freq/switch/fpga-4785-kernel/fpag_android_linux308/kernel/#rwsem.c#
+/home1/wli/data/uboot/fpga/u-boot-2013.04/drivers/net/jz47xx_eth.c
+/home1/wli/data/uboot/fpga/u-boot-2013.04/drivers/net/#jz47xx_eth.c#

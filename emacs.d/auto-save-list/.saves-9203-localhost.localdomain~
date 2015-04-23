@@ -1,0 +1,16 @@
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/simply.c
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/#simply.c#
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/simply.h
+/home1/wli/4775-kernel/usb_serial/mensa_3.0.8/drivers/simply_usb_serial/#simply.h#
+/home1/wli/4775-kernel/release-20121206-jz4775/src/usb_boot.c
+/home1/wli/4775-kernel/release-20121206-jz4775/src/#usb_boot.c#
+/home1/wli/4775-kernel/release-20121206-jz4775/include/jz4775otg_dwc.h
+/home1/wli/4775-kernel/release-20121206-jz4775/include/#jz4775otg_dwc.h#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/u_serial.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/#u_serial.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/serial.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/#serial.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/f_serial.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/usb/gadget/#f_serial.c#
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/tty/tty_io.c
+/home1/wli/4775-kernel/dwc2/mensa_3.0.8/drivers/tty/#tty_io.c#

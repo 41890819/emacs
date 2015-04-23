@@ -1,0 +1,14 @@
+/home1/wli/demo/palladium/1-6/drivers/char/jz_switch.c
+/home1/wli/demo/palladium/1-6/drivers/char/#jz_switch.c#
+/home1/wli/demo/palladium/1-6/drivers/char/cpu_switch.S
+/home1/wli/demo/palladium/1-6/drivers/char/#cpu_switch.S#
+/home1/wli/demo/palladium/1-6/arch/mips/xburst/soc-4785/common/pm_p0.c
+/home1/wli/demo/palladium/1-6/arch/mips/xburst/soc-4785/common/#pm_p0.c#
+/home1/wli/demo/palladium/1-6/Makefile
+/home1/wli/demo/palladium/1-6/#Makefile#
+/home1/wli/demo/palladium/1-6/kernel/power/suspend.c
+/home1/wli/demo/palladium/1-6/kernel/power/#suspend.c#
+/home1/wli/demo/palladium/1-6/drivers/base/syscore.c
+/home1/wli/demo/palladium/1-6/drivers/base/#syscore.c#
+/home1/wli/demo/palladium/1-6/arch/mips/xburst/soc-4785/common/rtc_test.c
+/home1/wli/demo/palladium/1-6/arch/mips/xburst/soc-4785/common/#rtc_test.c#

@@ -1,0 +1,14 @@
+/home1/wli/demo/uboot/u-boot/common/spl/spl_mmc.c
+/home1/wli/demo/uboot/u-boot/common/spl/#spl_mmc.c#
+/home1/wli/demo/uboot/u-boot/common/spl/spl.c
+/home1/wli/demo/uboot/u-boot/common/spl/#spl.c#
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/jz4785.c
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/#jz4785.c#
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/u-boot-spl.lds
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/#u-boot-spl.lds#
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/clk.c
+/home1/wli/demo/uboot/u-boot/arch/mips/cpu/xburst/jz4785/#clk.c#
+/home1/wli/demo/uboot/u-boot/include/u-boot/u-boot.lds.h
+/home1/wli/demo/uboot/u-boot/include/u-boot/#u-boot.lds.h#
+/home1/wli/demo/uboot/u-boot/include/configs/f4785.h
+/home1/wli/demo/uboot/u-boot/include/configs/#f4785.h#
