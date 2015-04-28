@@ -198,8 +198,8 @@
 ;=====C模式设置=====
 (defun my-c-mode-hook()
   (c-set-style "linux")
-;  (setq tab-width 8 indent-tabs-mode nil)
-  (c-set-style "K&R")
+;  (setq tab-width 8 indent-tabs-mod nil)
+;  (c-set-style "K&R")
   (setq tab-width 8)
   (setq indent-tabs-mode t)
   (setq c-basic-offset 8)
@@ -253,9 +253,11 @@
 
 ;=====初始化shell=====
 (eshell)
-(rename-buffer "sh1")
+(rename-buffer "sh3")
 (eshell)
 (rename-buffer "sh2")
+(eshell)
+(rename-buffer "sh1")
 (eshell)
 (rename-buffer "sh")
 (custom-set-variables
