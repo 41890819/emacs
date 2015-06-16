@@ -18,6 +18,7 @@
 /home/jerry/work/kernel/arch/mips/xburst/soc-m200
 /home/jerry/work/kernel/arch/mips/xburst/soc-m200/chip-m200
 /home/jerry/work/kernel/arch/mips/xburst/soc-m200/chip-m200/glass
+<<<<<<< HEAD
 /home/jerry/work/kernel/arch/mips/xburst/soc-m200/chip-m200/glass/common
 /home/jerry/work
 /home/jerry/work/kernel
@@ -31,3 +32,8 @@
 /home/jerry/2_work/kernel/drivers/staging/iio
 /home/jerry/2_work/kernel/drivers/staging/iio/imu
 /home/jerry/2_work/kernel/drivers/staging/iio/imu/inv_mpu
+=======
+/home/jerry/work/kernel/arch/mips/xburst/soc-m200/chip-m200/glass/paramount
+~/Documents/emacs/emacs
+~
+>>>>>>> 7479b8cfb5f5875b1005daf44ff1e8e60f8969ee

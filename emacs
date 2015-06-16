@@ -209,8 +209,13 @@
 ;=====C模式设置=====
 (defun my-c-mode-hook()
   (c-set-style "linux")
+<<<<<<< HEAD
 ;  (setq tab-width 8 indent-tabs-mode nil)
   (c-set-style "linux")
+=======
+;  (setq tab-width 8 indent-tabs-mod nil)
+;  (c-set-style "K&R")
+>>>>>>> 7479b8cfb5f5875b1005daf44ff1e8e60f8969ee
   (setq tab-width 8)
   (setq indent-tabs-mode t)
   (setq c-basic-offset 8)
