@@ -1,76 +1,128 @@
-ls
-make zImage
-make zImage -j8
-ls
-ls
-ls
-ls
-cd arch/mips/
-ls
-cd xburst/
-ls
-grep pm.c * -nr
-ls
-cd soc-m200/
-ls
-ls -l
-cd board/
-ls
-cd ..
-grep "board/glass"
-grep "glass/para" * -nr
-ls
-ls
-ls common/
-ls board/
-ls board/glass/
-ls board/glass/paramount/
-cd ..
-cd ..
-cd ..
-find -name pm.o
-cd xtensa/
 cd ..
 ls
-cd mips/
+cd kernel/
 ls
-cd xburst/
-cd soc-m200/
+grep recovery * -nr
 ls
-cd chip-m200/
+cls
+pwd
+ls
+grep "failed to power up wifi chip" * -nr
+grep "wli" * -nr
+grep "wli: " * -nr
+ls
+pwd
+ls
+grep "wifi_probe" * -nr
+grep "failed to power up wifi chip, retry again" * -nr
+ls
+cd ..
+ls
+cd bootable/
+ls
+cd bootloader/
+ls
+cd uboot/
+ls
+grep "root=/dev/ram0" * -nr
+ls
+cd ../../
+ls
+meld initerror.log initok.log 
+ls
+meld initerror.log initok.log 
+ls
+cd ..
+ls
+cd kernel/
+ls
+cd drivers/power/
+ls
+cd ..
+cd ..
+ls
+find -name *battery* -nr
+find -name *battery*
+cd drivers/power/
+ls
+ls
+cd work/
+ls
+cd kernel/
+ls
+pw
+pwd
+ls
+ls
+cd arch/mips/xburst/soc-m200/chip-m200/
 ls
 cd glass/
 ls
-cd paramount/
+cd common/
 ls
 ls
-LD      arch/mips/xburst/soc-m200/chip-m200/glass/paramount/built-in.o
+cd ..
 ls
+cd ..
 cd ..
 ls
 cd common/
 ls
-ls wifi.c
-pwd
 ls
-cd ~/work/
-cd kernel/
+cd ..
 ls
-make zImage -j8 --savetmp
-make zImage -j8 --savetemp
-make
-mips-linux-gnu-gcc arch/mips/xburst/soc-m200/chip-m200/glass/common/wifi -E
-mips-linux-gnu-gcc arch/mips/xburst/soc-m200/chip-m200/glass/common/wifi.c -E
-mips-linux-gnu-gcc arch/mips/xburst/soc-m200/chip-m200/glass/common/wifi.c -E > tmp
+cd include/
 ls
+cd mach/
 ls
+cd work/kernel/
 ls
 cd arch/mips/xburst/soc-m200/
+ls
+cd common/
+ls
+cd ..
 ls
 cd chip-m200/
 ls
 cd glass/
 ls
-cd paramount/
+cd common/
+ls
+ls
+ls
+ls
+cdls
+cd work/
+ls
+cd kernel/
+ls
+cd drivers/
+ls
+cd i2c/chips/
 ls
 pwd
+ls
+pwd
+ls
+ls
+cd 2_work/
+ls
+pwd
+ls
+ls
+cd dr
+ls
+cd kernel/
+ls
+cd drivers/
+ls
+cd staging/
+ls
+cd iio/
+ls
+cd imu/
+ls
+cd inv_mpu/
+ls
+ls *.o

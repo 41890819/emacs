@@ -91,18 +91,11 @@
                                           (progn (bury-buffer) (other-window 1))))))
            (goto-char (point-min))))))))
 
-;=====bookmark=====
-(global-set-key [(f7)] 'bookmark-set)
-(global-set-key [(f8)] 'bookmark-jump)
-(global-set-key [(f9)] 'list-bookmarks)
-
 ;=====ecb=====
 (setq stack-trace-on-error t)
 (add-to-list 'load-path "~/.emacs.d/site-lisp/ecb-2.40")
 (require 'ecb)
-;(setq ecb-auto-activate t)
-(setq ecb-tip-of-the-day 0)
-(setq ecb-help-info-start-file 0)
+(setq ecb-auto-activate t ecb-tip-of-the-day nil)
 
 (global-set-key [(f5)] 'ecb-activate)
 (global-set-key [(f6)] 'ecb-deactivate)
